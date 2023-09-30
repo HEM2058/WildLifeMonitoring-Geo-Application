@@ -12,6 +12,8 @@
 
 .date-control-container{
     display: flex;
+    top: -100px;
+    right: -40px
 }
 
 .date-control-container input {
